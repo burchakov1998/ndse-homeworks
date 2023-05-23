@@ -1,1 +1,1 @@
-'cmd current'
+console.log('cmd current')
