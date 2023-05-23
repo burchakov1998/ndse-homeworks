@@ -1,1 +1,1 @@
-console.log('cmd current')
+console.log(new Date());
