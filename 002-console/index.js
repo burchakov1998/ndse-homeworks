@@ -1,3 +1,4 @@
+debugger
 //Задание 1
 console.log(new Date());
 //Задание 2
@@ -29,7 +30,8 @@ console.log(`user_number + Меньше`);
 
     }
     readline.close();
+    game()
 })}
    
 
-game()
+
